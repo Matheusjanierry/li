@@ -1,0 +1,49 @@
+    .lado-Imagen{
+        width: 50%;
+    }
+    .lado-texto{
+        width: 50%;
+        font-size: 30px;
+        
+    }
+    body{
+        display: flex;
+        flex-direction: row;
+    }
+    button{
+        width:auto;
+        font-size: 20px;
+        background-color: rgb(24, 121, 212);
+        display: flex;
+        flex-direction: column;
+    }
+    .bola{
+        border: 10px solid #000;
+        width:fit-content;
+        border-radius: 1000px;
+        padding: 20px 20px 20px 20px;
+        background-color: #000;
+    
+    }
+
+    .bola-2{
+        border: 10px solid #ffffff;
+        width:fit-content;
+        border-radius: 1000px;
+        padding: 30px 30px 30px 30px;
+        background-color: #8d8c8c;
+    }
+   
+    .texto-tm{
+        display: flex;
+        font-size: 30px;
+    }
+ 
+    .a1{
+        display: flex;
+        flex-direction: row-reverse;
+    }
+    .txt-botao{
+        font-size: 30px;
+        
+    }
